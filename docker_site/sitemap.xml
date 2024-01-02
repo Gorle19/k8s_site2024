@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/advanced/second/</loc>
+    <lastmod>2024-01-02T16:10:17+01:00</lastmod>
+  </url><url>
+    <loc>/advanced/first/</loc>
+    <lastmod>2024-01-02T16:10:13+01:00</lastmod>
+  </url><url>
+    <loc>/advanced/</loc>
+    <lastmod>2024-01-02T16:10:06+01:00</lastmod>
+  </url><url>
+    <loc>/basic/second/</loc>
+    <lastmod>2024-01-02T16:09:52+01:00</lastmod>
+  </url><url>
+    <loc>/basic/first/</loc>
+    <lastmod>2024-01-02T16:09:47+01:00</lastmod>
+  </url><url>
+    <loc>/basic/</loc>
+    <lastmod>2024-01-02T16:09:34+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-01-02T16:08:58+01:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>
